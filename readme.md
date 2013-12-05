@@ -2,6 +2,7 @@
 ![FGx Logo]( http://fgx.github.io/fgx-cap-40x30.png)  FGx Aircraft Loader Read Me
 =================================================================================
 
+FGx Aircraft Loader: [Loader-One](http://fgx.github.io/fgx-aircraft-loader/load-one.html "Bon voyage!" )
 
 ## Change Log
 
@@ -9,6 +10,7 @@
 
 * Files moved from FGx Aircraft to own repo at FGx Aircraft Loader
 * Load-one.html updated so it works with updated FGx Aircraft directoroes and aircraft.csv
+* Default branch set to gh-pages
 
 
 
