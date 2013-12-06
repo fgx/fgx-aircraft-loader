@@ -2,19 +2,20 @@
 ![FGx Logo]( http://fgx.github.io/fgx-cap-40x30.png)  FGx Aircraft Loader Read Me
 =================================================================================
 
-FGx Aircraft Loader: [Loader-One](http://fgx.github.io/fgx-aircraft-loader/load-one.html "Bon voyage!" )
+FGx Aircraft Loader: [Load One]( http://fgx.github.io/fgx-aircraft-loader/load-one.html "Bon voyage!" )
 
 ## Change Log
 
 2013-12-05 ~ Theo
 
 * Files moved from FGx Aircraft to own repo at FGx Aircraft Loader
-* Load-one.html updated so it works with updated FGx Aircraft directoroes and aircraft.csv
+* Load-one.html updated so it works with updated FGx Aircraft directories and aircraft.csv
 * Default branch set to gh-pages
+* New index.html with MD interpreter
 
 
 
-## 2013-10 Preamble ~ Geoff
+## Preamble ~ 2013-10 ~ Geoff
 
 Theo pointed the way to load Three.js json models (3js) into a global scene. The initial, very manual way to get this 3js was to load the flightgear ac3d (.ac) model into blender, then export it as dae, then load that dae and export it as 3js. It works, but is quite cumbersome. And the blender UI take some understanding...
 
@@ -55,3 +56,5 @@ ac-01.zip - A zip file containing the 435 3js model files (190MB)
 And just to be sure I got everything globe-02.zip is the entire contents of this 'globe' folders, including 4 sub-directories, only excluding the above zip, which is effectively the ac folder contents, so that folder is also excluded...
 
 That ac folder contains 436 <model>.js files, 414 of which are used in the above 1x1 display (load-one2.html). It als
+
+Theo: oops. a truncation seems to have occured. Geoff wiil fix
